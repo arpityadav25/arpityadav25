@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning java<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently studying java<br>💬 You can contact me at arpityadav2514613@gmail.com
+🔭 I’m currently learning java<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently a student<br>💬 You can contact me at arpityadav2514613@gmail.com
 
 
 ## 🌐 Socials:
